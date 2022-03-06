@@ -1,0 +1,272 @@
+/*Principal*/
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.BarraNavegacion{
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    background-color: #ffb6af;
+}
+
+.Bienvenida{
+    position: absolute;
+    top: 88px;
+    left: 0px;
+    width: 1440px;
+    height: 165px;
+    background-color: #B49FDC;
+    text-align: center;
+}
+
+.Menu{
+    position: absolute;
+    top: 250px;
+    left: 0px;
+    width: 1440px;
+    height: 100px;
+    background-color: #ffb6af;
+}
+
+.Pastel1{
+    position: absolute;
+    line-height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    top: 350px;
+    left: 0px;
+    height: 400px;
+    width: 800px;
+    background-color: #fcfcda;
+    text-justify: auto;
+    text-align: center;
+    
+}
+
+.Cake1{
+    position: absolute;
+    top: 350px;
+    left: 800px;
+    width: 400px;
+    height: 400px;
+}
+
+.Pastel2{
+    position: absolute;
+    top: 750px;
+    left: 750px;
+    width: 690px;
+    height: 400px;
+    line-height: 100px;
+    vertical-align: middle;
+    text-justify: auto;
+    text-align: center;
+    background-color: #ededaf;
+    transform: translate();
+}
+
+.Cake2{
+   position: absolute;
+   top: 750px;
+   left: 350px;
+   width: 400px;
+   height: 400px;
+}
+
+.Pastel3{
+    position: absolute;
+    top: 1150px;
+    left: 0px;
+    height: 400px;
+    width: 800px;
+    line-height: 100px;
+    vertical-align: middle;
+    text-justify: auto;
+    text-align: center;
+    background-color: #c7f6d4;
+    transform: translate();
+}
+.Cake3{
+    position: absolute;
+    top: 1150px;
+    left: 800px;
+    width: 400px;
+    height: 400px;
+}
+
+
+.Pastel4{
+    position: absolute;
+    top: 1550px;
+    left: 750px;
+    height: 400px;
+    width: 690px;
+    line-height: 100px;
+    vertical-align: middle;
+    text-justify: auto;
+    text-align: center;
+    text-justify: auto;
+    text-align: center;
+    background-color: #95b8f6;
+    transform: translate();
+}
+
+.Cake4{
+    position: absolute;
+    top: 1550px;
+    left: 350px;
+    width: 400px;
+    height: 400px;
+}
+
+.Text1{
+    position: absolute;
+    top: 1880px;
+    left: 0px;
+    width: 1440px;
+    text-align: center;
+    background-color: #ffb6af;
+}
+
+.Saborpan{
+    position: relative;
+    top: 1775px;
+    left: 0px;
+    width: 480px;
+    height: 335px;
+    background-color: bisque;
+}
+
+.Cuadro1{
+    position: absolute;
+    width: 100;
+    height: 100;
+    top:70px;
+    left: 200px;
+    margin: -25px 0 0 -25px;
+}
+
+.Saborbetun{
+    position: relative;
+    top: 1420px;
+    left: 480px;
+    width: 480px;
+    height: 335px;
+    background-color: #95fab9;
+}
+
+.Cuadro2{
+    position: absolute;
+    width: 100;
+    height: 100;
+    top:70px;
+    left: 200px;
+    margin: -25px 0 0 -25px;
+}
+
+.Toppings{
+    position: relative;
+    top: 1065px;
+    left: 960px;
+    width: 472px;
+    height: 335px;
+    background-color: #a0d2f3;
+}
+.Cuadro3{
+    position: absolute;
+    width: 100;
+    height: 100;
+    top:70px;
+    left: 200px;
+    margin: -25px 0 0 -25px;
+}
+
+.bpedido{
+    position: absolute;
+    top: 2150px;
+    left: 1130px;
+    width: 300px;
+}
+.blimpiar{
+    position: absolute;
+    top: 2150px;
+    left: 200px;
+    width: 300px;
+}
+
+.borde{
+    position: absolute;
+    top: 2200px;
+    left: 0px;
+    width: 1440px;
+    height: 100px;
+    background-color: #ffb6af;
+}
+
+/* Pedido */
+.background{
+    position: absolute;
+    inset: 0px;
+    background-attachment: flex;
+    z-index: 1;
+}
+
+.logop{
+    position: absolute;
+    top: 280px;
+    left: 650px;
+}
+
+.Title{
+    position: absolute;
+    top: 200px;
+    left: 600px;
+}
+
+.Name{
+    position: absolute;
+    top: 450px;
+    left: 650px;
+    height: 1000px;
+    z-index: 2;
+}
+.Direction{
+    position: absolute;
+    top: 550px;
+    left: 650px;
+    z-index: 3;
+}
+.Email{
+    position: absolute;
+    top: 670px;
+    left: 650px;
+    z-index: 4;
+}
+.Tel{
+    position: absolute;
+    top: 780px;
+    left: 650px;
+    z-index: 5;
+}
+
+.orden{
+    position: absolute;
+    top: 900px;
+    left: 600px;
+    z-index: 6;
+}
+
+.cancel{
+    position: absolute;
+    top: 900px;
+    left: 800px;
+    z-index: 7;
+}
+
+
+/* Termina Pedido*/
+
